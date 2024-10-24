@@ -12,7 +12,7 @@ export function Projects() {
                 <div className="w-80 rounded">
                     <a href="https://www.geeksforgeeks.org/progress-tracker-using-react-and-local-storage/"
                         className="w-full h-full">
-                        <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230927120905/gfg.png"
+                        <img src=""
                             alt="Project 1"
                             className="w-full h-full 
                                         bg-cover rounded"/>
@@ -35,7 +35,7 @@ export function Projects() {
                             hover:scale-[102%] w-full">
                 <div className="w-80 rounded">
                     <a href="https://www.geeksforgeeks.org/15-puzzle-game-using-reactjs/" className="w-full h-full">
-                        <img src= "https://media.geeksforgeeks.org/wp-content/uploads/20230904150620/gfg.png" alt="Project 2" lassName="w-full h-full bg-cover rounded" />
+                        <img src= "" alt="Project 2" lassName="w-full h-full bg-cover rounded" />
                     </a>
                 </div>
                 <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1">

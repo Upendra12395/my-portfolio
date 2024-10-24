@@ -2,9 +2,9 @@ import React from 'react';
 
 const data = [
     {
-        name: 'JavaScript',
+        name: 'Node.js',
         level: 'Advanced',
-        description: 'Experience in ES6+, asynchronous programming, and building interactive UIs.',
+        description: 'Experienced in building scalable backend services, Microservices and APIs using Node.js and Express.',
         percentage: 90,
         color: 'indigo'
     },
@@ -12,14 +12,14 @@ const data = [
         name: 'React',
         level: 'Intermediate',
         description: 'Proficient in building dynamic web applications with React and managing state with Redux.',
-        percentage: 75,
+        percentage: 50,
         color: 'green'
     },
     {
-        name: 'Node.js',
+        name: 'MongoDB',
         level: 'Advanced',
-        description: 'Experienced in building scalable backend services and APIs using Node.js and Express.',
-        percentage: 85,
+        description: 'Experienced in creating Schema, static and dynamic methods to fetch and updtae the data.',
+        percentage: 70,
         color: 'blue'
     },
     {
@@ -30,7 +30,7 @@ const data = [
         color: 'indigo'
     },
     {
-        name: 'JavaScript',
+        name: 'Redis',
         level: 'Advanced',
         description: 'Experience in ES6+, asynchronous programming, and building interactive UIs.',
         percentage: 90,

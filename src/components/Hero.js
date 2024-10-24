@@ -21,7 +21,7 @@ export function Hero() {
             </div>
             <div className="flex-1">
                 <img src=
-                    "https://media.geeksforgeeks.org/gfg-gg-logo.svg"
+                    ""
                     alt="Hello.svg"
                     className="w-full h-full bg-cover" />
             </div>
